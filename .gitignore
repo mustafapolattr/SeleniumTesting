@@ -168,3 +168,5 @@ venv-selenium/
 # IDE/Editor settings
 .idea/
 .vscode/
+
+screenshots/
