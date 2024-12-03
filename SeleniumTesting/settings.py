@@ -122,3 +122,7 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Selenium
+SELENIUM_DRIVER_PATH = "C:/drivers/chromedriver-win64/chromedriver.exe"
+ORANGEHRM_URL = "https://opensource-demo.orangehrmlive.com/"
